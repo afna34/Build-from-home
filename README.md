@@ -27,6 +27,34 @@ We can login to the admin panel where in the admin page we can add events and al
 ## Libraries used
 Library Name - Version
 ## How to configure
-Instructions for setting up project
+
+1. Clone Project
+```
+git clone https://github.com/afna34/Build-from-home.git
+```
+2. Change directory to a branch
+```
+cd branch_name
+```
+3. Install pip
+```
+python -m pip install --upgrade pip
+```
+4. Create virtual environment
+```
+python -m venv venv
+```
+5. Activate virtual environment
+```
+venv\Scripts\activate
+```
+6. Install django
+```
+pip install django
+```
+
 ## How to Run
-Instructions for running
+ Enter the code on terminal
+```
+python manage.py runserver
+```
