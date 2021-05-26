@@ -15,7 +15,7 @@ We have created an event management portal using django framework. In this porta
 BFH/recd8mHYewan425ql/2021
 
 ## Link to product walkthrough
-here is the link to video https://www.loom.com/share/9b23e49834754162849347c91faadeff
+[here is the link to the video] https://www.loom.com/share/9b23e49834754162849347c91faadeff
 ## How it Works ?
 Step1:
 We can register to an unique account , following this we can login to our account.
