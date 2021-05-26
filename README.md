@@ -7,8 +7,9 @@ SIAS Event portal
 We have created an event management portal using django framework. In this portal we can create an unique account and also register for different events as well as each students can create an event or edit the existing events. This portal have user friendly.
 
 ## Team members
-1. Khdeeja minha [https://github.com/khadeejaminha]
-2. Fathima Ali [Embed perosnal github URL]
+1. Khdeeja minha https://github.com/khadeejaminha
+2. Fathima Ali https://github.com/faathimaa
+3. Afna Sherin https://github.com/afna34
 ## Team Id
 
 BFH/recd8mHYewan425ql/2021
