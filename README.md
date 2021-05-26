@@ -15,7 +15,7 @@ We have created an event management portal using django framework. In this porta
 BFH/recd8mHYewan425ql/2021
 
 ## Link to product walkthrough
-[link to video]
+here is the link to the video https://www.loom.com/share/9b23e49834754162849347c91faadeff
 ## How it Works ?
 Step1:
 We can register to an unique account , following this we can login to our account.
@@ -25,7 +25,11 @@ Step2:
 We can login to the admin panel where in the admin page we can add events and also we can update or delete events.
 
 ## Libraries used
-Library Name - Version
+
+python - 3.9.5
+
+django - 3.2.3
+
 ## How to configure
 
 1. Clone Project
