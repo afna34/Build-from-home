@@ -19,8 +19,10 @@ BFH/recd8mHYewan425ql/2021
 Step1:
 We can register to an unique account , following this we can login to our account.
 In our account there will be the list of events and also we can register for an event.
+
 Step2:
 We can login to the admin panel where in the admin page we can add events and also we can update or delete events.
+
 ## Libraries used
 Library Name - Version
 ## How to configure
