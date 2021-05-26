@@ -25,7 +25,8 @@ Step2:
 We can login to the admin panel where in the admin page we can add events and also we can update or delete events.
 
 ## Libraries used
-Library Name - Version
+python - 3.9.5
+django - 3.2.3
 ## How to configure
 
 1. Clone Project
