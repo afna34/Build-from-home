@@ -127,3 +127,5 @@ STATICFILES_DIRS = [
     STATIC_DIR,
 ]
 
+STATIC_URL = '/staticfiles/'
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
